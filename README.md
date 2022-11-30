@@ -2,7 +2,7 @@
 ## Descripcion<br>
 Contiene un almacenamiento de datos y Venta de pantalones<br>
 en el almacenamiento de datos se relaciona con SQL en donde<br>
-tiene almcanados los libros y todo lo que se caracteriza con el mismo<br>
+tiene almcenados los libros y todo lo que se caracteriza con el mismo<br>
 tiene distintas relaciones entre tablas.
 <br>
 Contiene también en programación la venta de pantalones en donde el Usuario<br>
