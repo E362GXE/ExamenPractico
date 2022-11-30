@@ -1,5 +1,5 @@
 # ExamenPractico
-## Descripcion<br>
+## Descripción<br>
 Contiene un almacenamiento de datos y Venta de pantalones<br>
 en el almacenamiento de datos se relaciona con SQL en donde<br>
 tiene almcenados los libros y todo lo que se caracteriza con el mismo<br>
